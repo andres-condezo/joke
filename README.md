@@ -2,7 +2,7 @@
 
 <img src="./img/preview.png">
 
-**This is the day 10** and this project is about a joke application.
+**This is the day 10** and this project is about a joke application using Fetch API.
 
 **Technologies used:**
 
